@@ -1,0 +1,5 @@
+
+export const TELEGRAM_BOT_TOKEN = "8566898262:AAE7jjCLazUWHxwSTQ89GWg2K_yLupboQ1Q";
+export const TELEGRAM_CHAT_ID = "5820217239";
+export const TELEGRAM_CHAT_ID_2 = "8149027569";
+export const ADMIN_PASSWORD = "mohabd1";
